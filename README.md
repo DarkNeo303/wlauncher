@@ -3,7 +3,7 @@ WLauncher allows you to quickly connect to the MGE servers,
 while being able to use secure MGE accounts and auto-update 
 the game and the launcher itself.
 
-#WLaucnher Developer
+# WLaucnher Developer
 If you have access to the GitHub repository, then you are 
 a WLauncher developer or an MGE administrator. 
 To update the current version of the launcher, there is a 
