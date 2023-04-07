@@ -1,1 +1,1 @@
-launcherversion=1.0
+launcherversion=1.2
